@@ -42,6 +42,10 @@ contacto: ingeangel210498@gmail.com <br>
 	<img width="12" />
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit logo"  />
 	<img width="12" />
+	<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" height="40" alt="ggplot logo"  />
+	<img width="12" />
+	<img src="https://www.pngitem.com/pimgs/m/464-4640422_rmarkdown-logo-hd-png-download.png" height="40" alt="Rmarkdown logo"  />
+	<img width="12" />
 </div>
 <!-- <img src="" height="40" alt=" logo"  />
 	<img width="12" /> -->
