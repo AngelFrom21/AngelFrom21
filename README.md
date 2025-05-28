@@ -4,7 +4,7 @@
 
 <p align = "left">🔭 Mi proyecto actual es:..<br>
 📚 Estoy aprendiendo librerias como: Streamlit (Python), Rmarkdown (R) DAX avanzado en PowerBi<br>
-contacto: ingeangel210498@gmail.com<br> 
+contacto: ingeangel210498@gmail.com <br> 
 ⚡ todos mis proyectos se encuentran al final de está página</p>
 
 <h3 align = "left">💻 Tecnologias</h3>
@@ -14,7 +14,34 @@ contacto: ingeangel210498@gmail.com<br>
 	<img width="12" />
 	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" height="40" alt="R logo"  />
 	<img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo"  />
+  	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo"  />
+	<img width="12" />
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
 	<img width="12" />
 </div>
 <h3 align = "left">Bases de datos</h3>
+<div align="left">
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
+	<img width="12" />
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB logo"  />
+	<img width="12" />
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo"  />
+	<img width="12" />
+</div>
+<h3 align = "left">Librerias</h3>
+<div align="left">
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo"  />
+	<img width="12" />
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo"  />
+	<img width="12" />
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg" height="40" alt="Numpy logo"  />
+	<img width="12" />
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="SciKit Learn logo"  />
+	<img width="12" />
+	<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" height="40" alt="Scipy logo"  />
+	<img width="12" />
+	<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit logo"  />
+	<img width="12" />
+</div>
+<!-- <img src="" height="40" alt=" logo"  />
+	<img width="12" /> -->
