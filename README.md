@@ -4,8 +4,8 @@
 
 <p align = "left">🔭 Mi proyecto actual es:..<br>
 📚 Estoy aprendiendo librerias como: Streamlit (Python), Rmarkdown (R) DAX avanzado en PowerBi<br>
-contacto: ingeangel210498@gmail.com <br> 
-⚡ todos mis proyectos se encuentran al final de está página</p>
+📧 Contacto: <b>ingeangel210498@gmail.com</b> <br> 
+⚡ Todos mis proyectos se encuentran al final de está página</p>
 
 <h3 align = "left">💻 Tecnologias</h3>
 <h3 align = "left">Lenguajes de programación</h3>
@@ -49,3 +49,9 @@ contacto: ingeangel210498@gmail.com <br>
 </div>
 <!-- <img src="" height="40" alt=" logo"  />
 	<img width="12" /> -->
+
+### ✍️ Inspiración:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AngelFrom21&limit=5&theme=dark&combine_all_yearly_contributions=true)
