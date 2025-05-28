@@ -2,7 +2,7 @@
 <h3 align = "center">Mi nombre es Angel Romero<br>cientifico/analista de datos ubicado en Mexico CDMX</h3>
 <h3 align = "left">👩‍💻 Un poco sobre mi</h3>
 
-<p align = "left">🔭 Mi proyecto actual es:..<br>
+<p align = "left">🔭 Mi proyecto actual es: <a href = "https://github.com/AngelFrom21/WebScrapingPython">Extracción de datos desde la web</a><br>
 📚 Estoy aprendiendo librerias como: Streamlit (Python), Rmarkdown (R) DAX avanzado en PowerBi<br>
 📧 Contacto: <b>ingeangel210498@gmail.com</b> <br> 
 ⚡ Todos mis proyectos se encuentran al final de está página</p>
